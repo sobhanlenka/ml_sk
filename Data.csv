@@ -1,0 +1,10 @@
+﻿Country,Age,Salary,Status
+France,42,78300,Yes
+Germany,53,72500,No
+India,46,,No
+France,55,98400,Yes
+India,,45600,Yes
+India,42,65800,Yes
+Germany,61,55000,Yes
+France,32,76000,No
+India,44,88000,No
